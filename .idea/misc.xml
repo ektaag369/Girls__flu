@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/final/app/src/main/res/layout/activity_ec1.xml" value="0.17552083333333332" />
+        <entry key="..\:/final/app/src/main/res/layout/activity_ec2.xml" value="0.17552083333333332" />
+        <entry key="..\:/final/app/src/main/res/layout/activity_effects.xml" value="0.17552083333333332" />
+        <entry key="..\:/final/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/final/app/src/main/res/layout/activity_myth.xml" value="0.17552083333333332" />
+        <entry key="..\:/final/app/src/main/res/layout/activity_rc1.xml" value="0.17552083333333332" />
+        <entry key="..\:/final/app/src/main/res/layout/activity_rc2.xml" value="0.17552083333333332" />
+        <entry key="..\:/final/app/src/main/res/layout/activity_rc3.xml" value="0.17552083333333332" />
+        <entry key="..\:/final/app/src/main/res/layout/activity_rc4.xml" value="0.17552083333333332" />
+        <entry key="..\:/final/app/src/main/res/layout/activity_rc5.xml" value="0.17552083333333332" />
+        <entry key="..\:/final/app/src/main/res/layout/activity_rc6.xml" value="0.17552083333333332" />
+        <entry key="..\:/final/app/src/main/res/layout/activity_rc7.xml" value="0.17552083333333332" />
+        <entry key="..\:/final/app/src/main/res/layout/activity_recommendations.xml" value="0.17552083333333332" />
+        <entry key="..\:/final/app/src/main/res/layout/activity_remedies.xml" value="0.17552083333333332" />
+        <entry key="..\:/final/app/src/main/res/layout/activity_splash.xml" value="0.17552083333333332" />
+        <entry key="..\:/final/app/src/main/res/layout/activity_yc1.xml" value="0.17552083333333332" />
+        <entry key="..\:/final/app/src/main/res/layout/activity_yc2.xml" value="0.17552083333333332" />
+        <entry key="..\:/final/app/src/main/res/layout/activity_yc3.xml" value="0.17552083333333332" />
+        <entry key="..\:/final/app/src/main/res/layout/activity_yc4.xml" value="0.17552083333333332" />
+        <entry key="..\:/final/app/src/main/res/layout/activity_yc5.xml" value="0.17552083333333332" />
+        <entry key="..\:/final/app/src/main/res/layout/activity_yc6.xml" value="0.17552083333333332" />
+        <entry key="..\:/final/app/src/main/res/layout/activity_yc7.xml" value="0.17552083333333332" />
+        <entry key="..\:/final/app/src/main/res/layout/activity_yoga.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "46999397217",
+    "project_id": "girl-s-flu-fc36a",
+    "storage_bucket": "girl-s-flu-fc36a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46999397217:android:de552f7052344a72269b20",
+        "android_client_info": {
+          "package_name": "com.example.girls__flu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46999397217-sarmgho00klgmtp74vc92v0k9hhc1cad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuH42F47j56IanzRX98sPcTB5yHq_PAnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46999397217-sarmgho00klgmtp74vc92v0k9hhc1cad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
